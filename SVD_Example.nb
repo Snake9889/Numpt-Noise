@@ -1,0 +1,114 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3575,        104]
+NotebookOptionsPosition[      2964,         86]
+NotebookOutlinePosition[      3307,        101]
+CellTagsIndexPosition[      3264,         98]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[{
+ RowBox[{"SetDirectory", "[", 
+  RowBox[{"NotebookDirectory", "[", "]"}], "]"}], "\n", 
+ RowBox[{
+  RowBox[{"SetOptions", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+     "Plot", ",", "ListPlot", ",", "ListLinePlot", ",", "ListLogLinearPlot"}],
+      "}"}], ",", 
+    RowBox[{"PlotRange", "\[Rule]", "Full"}], ",", 
+    RowBox[{"Axes", "\[Rule]", "False"}], ",", 
+    RowBox[{"Frame", "\[Rule]", "True"}], ",", 
+    RowBox[{"GridLines", "\[Rule]", "Automatic"}], ",", 
+    RowBox[{"GridLinesStyle", "\[Rule]", 
+     RowBox[{"Directive", "[", 
+      RowBox[{"Gray", ",", "Dashed"}], "]"}]}], ",", 
+    RowBox[{"BaseStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"FontFamily", "\[Rule]", "\"\<Courier\>\""}], ",", 
+       RowBox[{"FontSize", "\[Rule]", "12"}], ",", " ", "Bold"}], "}"}]}], 
+    ",", 
+    RowBox[{"ImageSize", "\[Rule]", "500"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"Red", ",", 
+       RowBox[{"PointSize", "[", "0.01", "]"}]}], "}"}]}]}], "]"}], 
+  ";"}]}], "Input",
+ CellChangeTimes->{{3.799670262228682*^9, 3.7996703159211435`*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"f9bc42db-07c4-4120-9155-f1fa4c9daaa0"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "NotebookDirectory","nosv",
+   "\"The notebook \
+\\!\\(\\*TemplateBox[List[FrontEndObject[LinkObject[\\\"b477w_shm\\\", 3, \
+1]], 16, \\\"FrontEndObject[LinkObject[\\\\\\\"b477w_shm\\\\\\\", 3, 1]]\\\", \
+\\\"16\\\", \\\"\\\\\\\"Untitled-1\\\\\\\"\\\"], \
+\\\"NotebookObjectUnsaved\\\"]\\) is not saved.\"",2,1,1,18574528087754482113,
+   "Local"},
+  "MessageTemplate"]], "Message", "MSG",
+ CellChangeTimes->{3.7996703187266245`*^9},
+ CellLabel->
+  "During evaluation of \
+In[1]:=",ExpressionUUID->"df72ab33-cf4c-4970-a2be-3ce4f4eebce6"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "SetDirectory","fstr",
+   "\"File specification \\!\\(\\*RowBox[{\\\"$Failed\\\"}]\\) is not a \
+string of one or more characters.\"",2,1,2,18574528087754482113,"Local"},
+  "MessageTemplate"]], "Message", "MSG",
+ CellChangeTimes->{3.799670318733599*^9},
+ CellLabel->
+  "During evaluation of \
+In[1]:=",ExpressionUUID->"49d2d150-9303-4f20-af8d-5fff881d6596"],
+
+Cell[BoxData[
+ RowBox[{"SetDirectory", "[", "$Failed", "]"}]], "Output",
+ CellChangeTimes->{3.7996703187794557`*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"f18b9a7f-1047-4a91-93d2-4482d8c78391"]
+}, Open  ]]
+},
+WindowSize->{759, 833},
+WindowMargins->{{Automatic, 252}, {59, Automatic}},
+FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 1210, 30, 193, "Input",ExpressionUUID->"f9bc42db-07c4-4120-9155-f1fa4c9daaa0"],
+Cell[1793, 54, 567, 13, 42, "Message",ExpressionUUID->"df72ab33-cf4c-4970-a2be-3ce4f4eebce6"],
+Cell[2363, 69, 388, 9, 21, "Message",ExpressionUUID->"49d2d150-9303-4f20-af8d-5fff881d6596"],
+Cell[2754, 80, 194, 3, 65, "Output",ExpressionUUID->"f18b9a7f-1047-4a91-93d2-4482d8c78391"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
